@@ -1,7 +1,7 @@
 import $ from "../";
 
 let myvar = "hello world";
-const res = $(`echo ${myvar}`);
+const res = $`echo ${myvar}`;
 
 console.log(res.stdout);
 

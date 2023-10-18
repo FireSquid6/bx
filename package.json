@@ -1,6 +1,7 @@
 {
   "name": "@pwrtool/bx",
   "module": "index.ts",
+  "version": "1.0.0",
   "type": "module",
   "devDependencies": {
     "bun-types": "latest"
